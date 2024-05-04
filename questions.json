@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which property we should use in HTML to open a page in a new tab?",
+    "choice1": "_blank",
+    "choice2": "_self",
+    "choice3": "_top",
+    "choice4": "_parent",
+    "answer": 1
+  }
+  ,{
+    "question": "To add a new row in the table in HTML we use:",
+    "choice1": "<ht>",
+    "choice2": "<true>",
+    "choice3": "<tr></tr>",
+    "choice4": "<go>",
+    "answer": 3
+  },
+  {
+    "question": "To break the line in HTML and display the content on a new line we use:",
+    "choice1": "nextline",
+    "choice2": "down",
+    "choice3": "<break>",
+    "choice4": "<br>",
+    "answer": 4
+  },
+  {
+    "question" : "The biggest header in HTML is:",
+    "choice1" : "<h1>",
+    "choice2" : "<h2>",
+    "choice3" : "<h3>",
+    "choice4" : "<h4>",
+    "answer": 1
+  },
+  {
+    "question": "to display a paragraph in HTML we use:",
+    "choice1" : "<paragraph>",
+    "choice2": "<pre>",
+    "choice3": "<p>",
+    "choice4": "<para>",
+    "answer" : 3
+  },
+  {
+    "question": "To add a comment in HTML we use:",
+    "choice1": "<!-- comment here -->",
+    "choice2": "<comment> comment here </comment>",
+    "choice3": "// comment here",
+    "choice4": "/* comment here */",
+    "answer": 1
+  },
+  {
+    "question": "Which Tag in HTML is used to display the smallest header:",
+    "choice1": "<h1>",
+    "choice2": "<h2>",
+    "choice3": "<h3>",
+    "choice4": "<h6>",
+    "answer": 4
+  },
+  {
+    "question": "Which tag we use in HTML to show underline?",
+    "choice1": "<under>",
+    "choice2": "<i>",
+    "choice3": "<u>",
+    "choice4": "<_>",
+    "answer": 3
+  },
+  {
+    "question": "HTML is abreviation for:",
+    "choice1": "High Technology Markup Language",
+    "choice2": "HyperText Markup Language",
+    "choice3": "Historical Text Machine Learning",
+    "choice4": "How To Make Liquid",
+    "answer": 2
+  },
+  {
+    "question": "To add a title specificaly for a table in HTML we use:",
+    "choice1": "<caption>",
+    "choice2": "<h1>",
+    "choice3": "<h2>",
+    "choice4": "<h3>",
+    "answer": 1
+  },
+  {
+    "question" : "To display an image in HTML we use:",
+    "choice1" : "<image>",
+    "choice2" : "<photo>",
+    "choice3" : "<img>",
+    "choice4" : "<picture>",
+    "answer" : 3
+  },
+  {
+    "question": "To mark text with yellow background in HTML we use:",
+    "choice1": "<mark>",
+    "choice2" : "<marked>",
+    "choice3": "<yellow>",
+    "choice4" : "<important>",
+    "answer" : 1
+  },
+  {
+    "question": "To display code or a mathematical operation in HTML in the paragraph we use:",
+    "choice1" : "<info>",
+    "choice2" : "<code>",
+    "choice3" : "<pre>",
+    "choice4" : "<math>", 
+    "answer" : 2
+  },
+  {
+    "question" : "To display a horizontal line in HTML we use:",
+    "choice1" : "<hr>",
+    "choice2" : "<vr>",
+    "choice3" : "<h>",
+    "choice4" : "<line>",
+    "answer" : 1
+  },
+  {
+    "question" : "Which tag(s) we use in HTML to display text in bold?",
+    "choice1" : "<b> and <bold>",
+    "choice2" : "<b> and <strong>",
+    "choice3" : "<b> and <bigger>",
+    "choice4" : "<b> only",
+    "answer": 2
+  }
+]
